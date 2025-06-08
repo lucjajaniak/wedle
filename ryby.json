@@ -1,0 +1,1383 @@
+[
+
+    {
+
+        "nazwa": "Płoć (płotka)",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 40,
+
+        "masa": 1500,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "staw",
+
+            "rzeka",
+
+            "zbiornik zaporowy",
+
+            "wody przybrzeźne Bałtyku"
+
+        ],
+
+        "przyneta": [
+
+            "ziarna kukurydzy",
+
+            "czerwone robaki",
+
+            "białe robaki",
+
+            "pasty",
+
+            "ziarna zbóż"
+
+        ]
+
+    },
+
+    {
+
+        "nazwa": "Wzdręga (krasnopiórka)",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 40,
+
+        "masa": 1200,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "15 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "staw",
+
+            "rzeka",
+
+            "zbiornik zaporowy"
+
+        ],
+
+        "przyneta": [
+
+            "ziarna kukurydzy",
+
+            "czerwone robaki",
+
+            "białe robaki",
+
+            "pasty",
+
+            "ziarna zbóż"
+
+        ]
+
+    },
+
+    {
+
+        "nazwa": "Jaź",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 60,
+
+        "masa": 7000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "25 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "rzeka",
+
+            "zbiornik zaporowy",
+
+            "ujścia rzek"
+
+        ],
+
+        "przyneta": [
+
+            "czerwone robaki",
+
+            "białe robaki",
+
+            "przynęty sztuczne",
+
+            "chrząszcze",
+
+            "szarańczaki"
+
+        ]
+
+    },
+
+    {
+
+        "nazwa": "Kleń",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 60,
+
+        "masa": 2500,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "25 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "rzeka",
+
+            "staw",
+
+            "starorzecze",
+
+            "zbiornik zaporowy",
+
+            "zatoki morskie"
+
+        ],
+
+        "przyneta": [
+
+            "ziarna kukurydzy",
+
+            "czerwone robaki",
+
+            "białe robaki",
+
+            "pasty",
+
+            "ziarna zbóż"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Krąp",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 30,
+
+        "masa": 650,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "rzeka",
+
+            "staw",
+
+            "starorzecze",
+
+            "rozlewisko",
+
+            "zbiornik zaporowy"
+
+        ],
+
+        "przyneta": [
+
+            "larwy ochotki",
+
+            "czerwone robaki",
+
+            "białe robaki",
+
+            "pasty",
+
+            "ziarna zbóż"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Leszcz",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 70,
+
+        "masa": 6000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "rzeka",
+
+            "zbiornik zaporowy"
+
+        ],
+
+        "przyneta": [
+
+            "larwy ochotki",
+
+            "czerwone robaki",
+
+            "białe robaki",
+
+            "pasty",
+
+            "ziarna zbóż"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Certa",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 45,
+
+        "masa": 1000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "30 cm",
+
+        "woda": ["słodkowodna", "słonowodna"],
+
+        "wystepowanie": [
+
+            "przybrzeżne wody morskie",
+
+            "rzeka"
+
+        ],
+
+        "przyneta": [
+
+            "larwy ochotki",
+
+            "czerwone robaki",
+
+            "białe robaki"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Świnka",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 50,
+
+        "masa": 1500,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "25 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "rzeka"
+
+        ],
+
+        "przyneta": [
+
+            "larwy ochotki",
+
+            "czerwone robaki",
+
+            "białe robaki",
+            "ziarna zbóż"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Słonecznica",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 8,
+
+        "masa": 10,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "rzeka",
+            "jezioro",
+            "starorzecze",
+            "staw"
+
+        ],
+
+        "przyneta": [
+            "larwy ochotki",
+            "białe robaki"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Ukleja",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 20,
+
+        "masa": 60,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro"
+        ],
+
+        "przyneta": [
+            "pasty",
+            "białe robaki"
+        ]
+
+    },
+    {
+
+        "nazwa": "Karaś pospolity",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 40,
+
+        "masa": 2000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "torfianki",
+
+            "glinianki",
+
+            "staw",
+
+            "starorzecze",
+
+            "jezioro"
+
+        ],
+
+        "przyneta": [
+
+            "ziarna kukurydzy",
+
+            "czerwone robaki",
+
+            "białe robaki"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Lin",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 50,
+
+        "masa": 4000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "25 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+
+            "staw",
+
+            "starorzecze",
+
+            "jezioro"
+
+        ],
+
+        "przyneta": [
+
+            "ziarna kukurydzy",
+
+            "czerwone robaki",
+
+            "białe robaki",
+            "rosówki"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Karaś srebrzysty (japończyk)",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 40,
+
+        "masa": 2000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "torfianki",
+
+            "glinianki",
+
+            "staw",
+
+            "starorzecze",
+
+            "jezioro"
+
+        ],
+
+        "przyneta": [
+
+            "ziarna kukurydzy",
+
+            "czerwone robaki",
+
+            "białe robaki"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Karp",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 120,
+
+        "masa": 30000,
+
+        "kategoria_zagrozenia": "narażony",
+        "wymiar_ochronny": "30 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "rzeka",
+
+            "staw",
+
+            "starorzecze",
+
+            "zlewiska mórz"
+
+        ],
+
+        "przyneta": [
+
+            "ziarna kukurydzy",
+
+            "czerwone robaki",
+
+            "kulki proteinowe",
+
+            "ziemniaki"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Amur biały",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 100,
+
+        "masa": 25000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "rzeka",
+
+            "starorzecze",
+
+            "zbiornik zaporowy"
+
+        ],
+
+        "przyneta": [
+
+            "ziarna kukurydzy",
+
+            "kulki proteinowe",
+
+            "ziemniaki"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Tołpyga biała",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 90,
+
+        "masa": 12000,
+
+        "kategoria_zagrozenia": "bliski zagrożenia",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "staw",
+
+            "starorzecze",
+
+            "zbiornik zaporowy"
+
+        ],
+
+        "przyneta": [
+
+            "kulki proteinowe"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Tołpyga pstra",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 150,
+
+        "masa": 40000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "staw",
+
+            "starorzecze",
+
+            "zbiornik zaporowy"
+
+        ],
+
+        "przyneta": [
+
+            "kulki proteinowe",
+            "kukurydza",
+            "ziemniaki"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Boleń",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 80,
+
+        "masa": 8000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "40 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "rzeka nizinna",
+
+            "zbiornik zaporowy",
+
+            "zatoki morskie"
+
+        ],
+
+        "przyneta": [
+
+            "drobne ryby",
+
+            "woblery",
+
+            "błystki wahadłowe",
+
+            "błystki obrotowe"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Jelec",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 30,
+
+        "masa": 200,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "15 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "jezioro",
+
+            "rzeka",
+
+            "strumień"
+
+        ],
+
+        "przyneta": [
+
+            "larwy owadów",
+
+            "czerwone robaki",
+
+            "białe robaki",
+
+            "sztuczne muchy"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Brzana",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 80,
+
+        "masa": 8000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "40 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka"
+        ],
+
+        "przyneta": [
+
+            "pijawki",
+
+            "czerwone robaki",
+
+            "małe rybki",
+
+            "małe przynęty sztuczne"
+
+        ]
+
+    },
+    {
+
+        "nazwa": "Brzanka",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 30,
+
+        "masa": 250,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "objęty ochroną gatunkową",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka"
+        ],
+
+        "przyneta": [
+            "nie dotyczy"
+        ]
+
+    },
+    {
+
+        "nazwa": "Kiełb",
+
+        "rodzina": "Karpiowate",
+
+        "dlugosc": 12,
+
+        "masa": 15,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro"
+        ],
+
+        "przyneta": [
+            "białe robaki",
+            "czerwone robaki"
+        ]
+
+    },
+    {
+
+        "nazwa": "Śliz",
+
+        "rodzina": "Przylgowate",
+
+        "dlugosc": 15,
+
+        "masa": 25,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "objęty ochroną gatunkową",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka"
+        ],
+
+        "przyneta": [
+            "nie dotyczy"
+        ]
+
+    },
+    {
+
+        "nazwa": "Koza",
+
+        "rodzina": "Kozowate",
+
+        "dlugosc": 12,
+
+        "masa": 10,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "objęty ochroną gatunkową",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "staw",
+            "jezioro"
+        ],
+
+        "przyneta": [
+            "nie dotyczy"
+        ]
+
+    },
+    {
+
+        "nazwa": "Piskorz",
+
+        "rodzina": "Kozowate",
+
+        "dlugosc": 25,
+
+        "masa": 30,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "objęty ochroną gatunkową",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "starorzecze",
+            "staw",
+            "jezioro"
+        ],
+
+        "przyneta": [
+            "nie dotyczy"
+        ]
+
+    },
+    {
+
+        "nazwa": "Sum",
+
+        "rodzina": "Sumowate",
+
+        "dlugosc": 160,
+
+        "masa": 50000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "70 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro",
+            "zbiornik zaporowy"
+        ],
+
+        "przyneta": [
+            "czerwone robaki",
+            "rosówki",
+            "pijawki",
+            "małe rybki",
+            "przynęty sztuczne"
+        ]
+
+    },
+    {
+
+        "nazwa": "Sumik karłowaty",
+
+        "rodzina": "Sumikowate",
+
+        "dlugosc": 28,
+
+        "masa": 300,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro",
+            "staw",
+            "starorzecze"
+        ],
+
+        "przyneta": [
+            "czerwone robaki",
+            "białe robaki",
+            "pijawki"
+        ]
+
+    },
+    {
+
+        "nazwa": "Miętus",
+
+        "rodzina": "Dorszowate",
+
+        "dlugosc": 60,
+
+        "masa": 2000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "30 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro",
+            "staw",
+            "glinianki",
+            "potok"
+        ],
+
+        "przyneta": [
+            "czerwone robaki",
+            "białe robaki",
+            "pijawki",
+            "małe rybki"
+        ]
+
+    },
+    {
+
+        "nazwa": "Węgorz",
+
+        "rodzina": "Węgorzowate",
+
+        "dlugosc": 100,
+
+        "masa": 1500,
+
+        "kategoria_zagrozenia": "krytycznie zagrożony",
+        "wymiar_ochronny": "50 cm",
+
+        "woda": ["słodkowodna", "słonowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro"
+        ],
+
+        "przyneta": [
+            "czerwone robaki",
+            "pijawki",
+            "małe rybki"
+        ]
+
+    },
+    {
+
+        "nazwa": "Szczupak",
+
+        "rodzina": "Szczupakowate",
+
+        "dlugosc": 120,
+
+        "masa": 25000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "50 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro",
+            "staw",
+            "zbiornik zaporowy"
+        ],
+
+        "przyneta": [
+            "ryby",
+            "przynęty sztuczne",
+            "woblery",
+            "błystki",
+            "sztuczne muchy"
+        ]
+
+    },
+    {
+
+        "nazwa": "Okoń",
+
+        "rodzina": "Okoniowate",
+
+        "dlugosc": 45,
+
+        "masa": 2500,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "15 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro",
+            "staw",
+            "przybrzeżne wody morskie"
+        ],
+
+        "przyneta": [
+            "ryby",
+            "przynęty sztuczne",
+            "woblery",
+            "błystki",
+            "czerwone robaki"
+        ]
+
+    },
+    {
+
+        "nazwa": "Jazgarz",
+
+        "rodzina": "Okoniowate",
+
+        "dlugosc": 12,
+
+        "masa": 80,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro",
+            "starorzecze",
+            "zbiornik zaporowy"
+        ],
+
+        "przyneta": [
+            "ryby",
+            "przynęty sztuczne",
+            "woblery",
+            "błystki",
+            "czerwone robaki"
+        ]
+
+    },
+    {
+
+        "nazwa": "Sandacz",
+
+        "rodzina": "Okoniowate",
+
+        "dlugosc": 80,
+
+        "masa": 12000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "50 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "jezioro",
+            "wody przybrzeźne Bałtyku",
+            "zbiornik zaporowy"
+        ],
+
+        "przyneta": [
+            "ryby",
+            "przynęty sztuczne",
+            "woblery",
+            "błystki",
+            "przynęty gumowe"
+        ]
+
+    },
+    {
+
+        "nazwa": "Sieja",
+
+        "rodzina": "Łososiowate",
+
+        "dlugosc": 60,
+
+        "masa": 4000,
+
+        "kategoria_zagrozenia": "narażony",
+        "wymiar_ochronny": "35 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "jezioro"
+        ],
+
+        "przyneta": [
+            "błystki podlodowe"
+        ]
+
+    },
+    {
+
+        "nazwa": "Sielawa",
+
+        "rodzina": "Łososiowate",
+
+        "dlugosc": 25,
+
+        "masa": 70,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "18 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "jezioro"
+        ],
+
+        "przyneta": [
+            "mormyszka"
+        ]
+
+    },
+    {
+
+        "nazwa": "Pstrąg potokowy",
+
+        "rodzina": "Łososiowate",
+
+        "dlugosc": 70,
+
+        "masa": 4000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "30 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "potok",
+            "rzeka"
+        ],
+
+        "przyneta": [
+            "przynęty sztuczne",
+            "woblery",
+            "błystki",
+            "sztuczne muchy"
+        ]
+
+    },
+    {
+
+        "nazwa": "Pstrąg tęczowy",
+
+        "rodzina": "Łososiowate",
+
+        "dlugosc": 90,
+
+        "masa": 8000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "brak",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+            "potok",
+            "rzeka",
+            "jezioro",
+            "staw"
+        ],
+
+        "przyneta": [
+            "przynęty sztuczne",
+            "woblery",
+            "błystki",
+            "sztuczne muchy"
+        ]
+
+    },
+    {
+
+        "nazwa": "Łosoś",
+
+        "rodzina": "Łososiowate",
+
+        "dlugosc": 120,
+
+        "masa": 30000,
+
+        "kategoria_zagrozenia": "bliski zagrożenia",
+        "wymiar_ochronny": "35 cm",
+
+        "woda": ["słodkowodna", "słonowodna"],
+
+        "wystepowanie": [
+            "potok",
+            "rzeka",
+            "morze"
+        ],
+
+        "przyneta": [
+            "przynęty sztuczne",
+            "woblery",
+            "błystki",
+            "sztuczne muchy",
+            "przynęty gumowe"
+        ]
+
+    },
+    {
+
+        "nazwa": "Troć wędrowna",
+
+        "rodzina": "Łososiowate",
+
+        "dlugosc": 110,
+
+        "masa": 20000,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "35 cm",
+
+        "woda": ["słodkowodna", "słonowodna"],
+
+        "wystepowanie": [
+            "potok",
+            "rzeka",
+            "morze"
+        ],
+
+        "przyneta": [
+            "przynęty sztuczne",
+            "woblery",
+            "błystki",
+            "sztuczne muchy",
+            "przynęty gumowe"
+        ]
+
+    },
+    {
+
+        "nazwa": "Lipień",
+
+        "rodzina": "Lipieniowate",
+
+        "dlugosc": 45,
+
+        "masa": 1500,
+
+        "kategoria_zagrozenia": "najmniejszej troski",
+        "wymiar_ochronny": "30 cm",
+
+        "woda": ["słodkowodna"],
+
+        "wystepowanie": [
+
+            "rzeka",
+
+            "strumień",
+
+            "jezioro"
+
+        ],
+
+        "przyneta": [
+            "błystki obrotowe",
+            "sztuczne muchy"
+        ]
+
+    },
+    {
+
+        "nazwa": "Jesiotr zachodni",
+
+        "rodzina": "Jesiotrowate",
+
+        "dlugosc": 300,
+
+        "masa": 200000,
+
+        "kategoria_zagrozenia": "bliski zagrożenia",
+        "wymiar_ochronny": "objęty ochroną gatunkową",
+
+        "woda": ["słodkowodna", "słonowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "morze"
+        ],
+
+        "przyneta": [
+            "nie dotyczy"
+        ]
+
+    },
+    {
+
+        "nazwa": "Jesiotr ostronosy",
+
+        "rodzina": "Jesiotrowate",
+
+        "dlugosc": 300,
+
+        "masa": 180000,
+
+        "kategoria_zagrozenia": "bliski zagrożenia",
+        "wymiar_ochronny": "objęty ochroną gatunkową",
+
+        "woda": ["słodkowodna", "słonowodna"],
+
+        "wystepowanie": [
+            "rzeka",
+            "morze"
+        ],
+
+        "przyneta": [
+            "nie dotyczy"
+        ]
+
+    }
+
+]

@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+}
+#output{
+    text-align: center;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
+.odpowiedz{
+    display: flex;
+    flex-direction: row;
+}
+.naglowek{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.kwadrat{
+    background-color: #374478;
+    padding: 8px;
+    width: 7vw;
+    height: 7vw;
+    border: 1px solid black;
+    margin: 2px;
+    font-size: 1.3vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset -2px -5px 5px rgba(0, 0, 0, 0.2),
+		inset 2px 5px 5px rgba(254, 255, 237, 0.2);
+    text-shadow: 1px 1px 2px black;
+    color: white;
+}
+.dobrze{
+    background-color: #247a1b;
+}
+.zle{
+    background-color: #cc2525;
+}
+.wiecej{
+    background-image: url('./images/strzalka.png');
+    background-size: cover;
+}
+.mniej{
+    background-image: url('./images/strzalka.png');
+    background-size: cover;
+    transform: rotate(180deg);
+    box-shadow: inset 2px 5px 5px rgba(0,0,0,0.2),
+		inset -2px -5px 5px rgba(254, 255, 237, 0.2)!important;
+    > span {
+        transform: rotate(180deg);
+    }
+}
+.czesciowo{
+    background-color: #e36d19;
+}
+.lista{
+    width: 10vw;
+    font-size: 1.1vw;
+}
+.wygrana{
+    border: 2px solid green;
+    padding: 10px;
+}

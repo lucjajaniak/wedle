@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WĘDLE</title>
+</head>
+<body>
+    <h1>WĘDLE</h1>
+    <form onsubmit="event.preventDefault();">
+        <input list="lista-ryb" id="zgadywanaRyba" autocomplete="off">
+        <button id="submit" onclick="zgadnij()">zgadnij</button>
+        <datalist id="lista-ryb"></datalist>
+    </form>
+    <div id="komunikat"></div>
+    <div class="naglowek">
+    	<div class="kwadrat">nazwa</div>
+	<div class="kwadrat">rodzina</div>
+	<div class="kwadrat">długość</div>
+	<div class="kwadrat">masa</div>
+	<div class="kwadrat">wymiar ochronny</div>
+	<div class="kwadrat lista">środowisko</div>
+	<div class="kwadrat lista">występowanie</div>
+	<div class="kwadrat lista">przynęta</div>
+	<div class="kwadrat">zagrożenie</div>
+    </div>
+    <div id="output"></div>
+    <script src="script.js"></script>
+</body>
+</html>
